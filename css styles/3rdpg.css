@@ -1,0 +1,85 @@
+.desktop10{
+  margin-top: 180px;
+  display: flex;
+  align-items: top;
+  justify-content: center;
+  background: rgba(255, 255, 255, 1);
+  height: 710px;
+}
+
+.Scissorsframe{
+  width: 1150px;
+  height: 500px;
+  display: flex;
+  align-items: top;
+  
+}
+
+.Scissors{
+  display: flex;
+  align-items: top;
+  
+}
+
+.Scissorsimg{
+  margin-right: 16px;
+  margin-top: 3px;
+}
+
+.Scissorstext{
+  padding: 0;
+  margin: 0;
+}
+
+.Scissorshead{
+  font-size: 37px;
+  font-weight: bold;
+  line-height: 32px;
+  margin-bottom: 16px;
+  width: 380px;
+  color: rgba(20, 20, 20, 1);
+}
+
+.Scissorsspan{
+  color: rgba(0, 101, 254, 1);
+}
+
+.Scissorsdesc{
+  width: 310px;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 28px;
+  color: rgba(20, 20, 20, 1);
+}
+
+
+
+.ftbox1, .ftbox2{
+  display: flex;
+  width: 708px;
+  justify-content: space-between;
+  margin-left: 95px;
+  margin-bottom: 60px;
+}
+
+
+
+.scis01head,.scis02head, .scis03head, .scis04head{
+  line-height: 28px;
+  font-size: 29px;
+  color: rgba(20, 20, 20, 1);
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.scis01img, .scis02img, .scis03img, .scis04img{
+  margin-bottom: 40px;
+}
+
+.scis01desc, .scis02desc, .scis03desc, .scis04desc{
+  width: 280px;
+  font-size: 13px;
+  color: rgba(20, 20, 20, 1);
+  line-height: 24px;
+  font-weight: 500;
+}

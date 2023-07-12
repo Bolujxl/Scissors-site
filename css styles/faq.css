@@ -1,0 +1,79 @@
+.FAQdesktop{
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  position: relative;
+  justify-content: center;
+  height: 1353px;
+}
+
+.decor-4{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.decor-5{
+  position: absolute;
+  right: -20px;
+  bottom: 0px;
+}
+
+
+.faqframe{
+  height: 955px;
+  width: 792px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 220px;
+}
+
+
+.faqhead{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.faqreal{
+  font-size: 37px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  color: rgba(20, 20, 20, 1);
+  margin-bottom: 8px;
+}
+
+.faqheadcontainer{
+  margin-bottom: 32px;
+}
+
+.faqhead1{
+  display: flex;
+  align-items: center;
+}
+
+.howdoes{
+  width: 744px;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 32px;
+  color: rgba(20, 20, 20, 1);
+  margin-bottom: 16px;
+}
+
+.howdoesdesc{
+  font-size: 14px;
+  line-height: 32px;
+  color: rgba(20, 20, 20, 1);
+  margin-bottom: 16px;
+}
+
+.howdoes2, .howdoes3, .howdoes4, .howdoes5, .howdoes6, .howdoes7, .howdoes8, .howdoes9{
+  width: 744px;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 32px;
+  color: rgba(20, 20, 20, 1);
+  margin-bottom: 16px;
+}

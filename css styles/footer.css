@@ -1,0 +1,102 @@
+.footerframe{
+  height: 561px;
+  display: flex;
+  position: relative;
+  color: rgba(255, 255, 255, 1);
+}
+
+.footer1{
+  color: black;
+  position: absolute;
+  left: -50px;
+  bottom: -10px;
+}
+
+.footer2{
+  position: absolute;
+  bottom: -40px;
+  right: -40px;
+}
+
+.Logoframe{
+  position: absolute;
+  left: 170px;
+  top: 100px;
+}
+
+.logodark{
+  margin-bottom: 32px;
+}
+
+.infoframe{
+  position: absolute;
+  left: 416px;
+  top: 100px;
+  z-index: -1;
+  margin-left: 40px;
+  display: flex;
+  width: 812px;
+  gap: 24px;
+  justify-content: top;
+}
+
+
+.info1head, .info2head, .info3head, .info4head, .info5head, .info6head, .info7head{
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(7, 24, 39, 1);
+  margin-bottom: 8px;
+}
+
+.info1text, .info2text, .info3text, .info4text, .info5text, .info6text, .info7text{
+  line-height: 24px;
+  color: rgba(17, 34, 50, 1);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.info1{
+  margin-bottom: 56px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.info3{
+  margin-bottom: 31px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.info5{
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-bottom: 56px;
+}
+
+.info2, .info4, .info6, .info7{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+
+.termofservice{
+  line-height: 20px;
+  color: rgba(17, 34, 50, 1);
+  font-size: 12px;
+  font-weight: 500;
+  padding-left: 12px;
+  padding-right: 12px;
+  display: flex;
+  gap: 8px;
+  height: 20px;
+  align-items: center;
+  position: absolute;
+  bottom: 39px;
+  right: 127px;
+}
+
+.termofservice img{
+  margin-top: 3px;
+  
+}

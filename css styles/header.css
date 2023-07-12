@@ -1,0 +1,70 @@
+
+body{
+  font-family: Plus Jakarta Sans;
+}
+
+.headerframe{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.header{
+  display: flex;
+  height: 44px;
+  width: 1150px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.right-section{
+  display: flex;
+}
+
+.middle-section{
+  display: flex;
+  width: 504px;
+  height: 24px;
+  justify-content: space-between;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.url-text{
+  color: rgba(0, 101, 254, 1);
+}
+
+.features{
+  display: flex;
+}
+
+.left-section{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 211px;
+  height: 44px;
+  justify-content: space-between;
+}
+
+.logintext{
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.tryfreebutton{
+  background-color: rgba(0, 101, 254, 1);
+  border: none;
+  width: 135px;
+  height: 44px;
+  font-size: 15px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  border-radius: 220px;
+  color: white;
+}
+
+

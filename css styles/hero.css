@@ -1,0 +1,157 @@
+
+
+.optimise-boxframe{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+  margin-bottom: 60px;
+}
+
+.optimise-box{
+  width: 948px;
+  height: 309px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 90px;
+  margin-bottom: 0px;
+}
+
+.optimise-frame{
+  width: 948px;
+  height: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  margin-bottom: 0px;
+}
+
+.optimise-text{
+  font-weight: bold;
+  font-size: 40px;
+  align-items: center;
+  width: 948px;
+  height: 180px;
+  line-height: 67px;
+  text-align: center;
+  margin-bottom: -10px;
+  
+}
+
+.url-short{
+  color: rgba(0, 101, 254, 1);
+}
+
+.Vector{
+  width: 180px;
+  padding-left: 400px;
+  margin-top: -30px;
+}
+
+
+.Personalize-text{
+  font-size: 15px;
+  line-height: 24px;
+  text-align: center;
+  height: 100px;
+  width: 650px;
+  font-weight: 500;
+}
+
+.optimise-buttons{
+  display: flex;
+  width: 272px;
+  height: 44px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.signupbutton{
+  background-color: rgba(0, 101, 254, 1);
+  border: none;
+  width: 130px;
+  height: 44px;
+  font-size: 15px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  border-radius: 220px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.learn-text{
+  font-size: 15px;
+  font-weight: 600;
+  width: 84px;
+}
+
+
+
+.linkboxframe{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 250px;
+  margin-bottom: 80px;
+  
+}
+
+.linkbox{
+  border-radius: 25px;
+  border: 0.5px solid rgba(0, 90, 226, 1);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  justify-content: center;
+  width: 700px;
+  height: 224px;
+  background-color: rgba(254, 254, 254, 0.1);
+  backdrop-filter: blur(23px);
+}
+
+.linksvg{
+  width: 384px;
+  height: 80px;
+  position: absolute;
+  top: 40px;
+  left: 60px;
+
+}
+
+.seamtextbox{
+  width: 640px;
+  position: absolute;
+  bottom: 40px;
+  left: 260px;
+  align-items: center;
+  justify-content: center;
+}
+
+.seamtext{
+  font-size: 13px;
+  text-align: center;
+  line-height: 24px;
+  width: 320px;
+  color: rgba(20, 20, 20, 1);
+  font-weight: 600;
+}
+
+.triangle{
+  margin-top: -240px;
+  margin-left: -450px;
+}
+
+.elipsedecor{
+  display: flex;
+  justify-content: center;
+
+}
+
+.elipseimg{
+  width: 1350px;
+}

@@ -1,0 +1,52 @@
+.desk5{
+  background-color: rgba(30, 52, 72);
+  height: 300px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+
+.decor6{
+  position: absolute;
+  left: -20px;
+  top: -10px;
+}
+
+.decor7{
+  position: absolute;
+  right: -20px;
+  bottom: -20px;
+} 
+
+.revoltext{
+  font-weight: 700;
+  color: rgba(255, 255, 255, 1);
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 35px;
+  
+}
+
+.revolbutton{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: 48px;
+  border: none;
+  border-radius: 100px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 12px;
+  background-color: rgba(0, 90, 226, 1);
+}
+
+.revoltframe{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,62 @@
+
+.statspossibleframe{
+  width: 1350px;
+  height: 220px;
+  background: rgba(249, 251, 253, 1);
+  margin-top: 1px;
+  position: relative;
+}
+
+.possibletext{
+  font-weight: 700;
+  font-size: 37px;
+  position: absolute;
+  top: 60px;
+  left: 124px;
+}
+
+.spanpossible{
+  color: rgba(0, 101, 254, 1);
+}
+
+.statsframe{
+  display: flex;
+  align-items: top;
+  justify-content: space-evenly;
+  width: 709px;
+  height: 91px;
+  position: absolute;
+  right: 120px;
+  top: 60px;
+}
+
+.threeMbox{
+  margin: 0px;
+}
+
+.threeMog, .sixMog, .oneBog, .threekog{
+  font-size: 29px;
+  color: rgba(20, 20, 20, 1);
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.threeMsub, .threeksub{
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(20, 20, 20, 1);
+}
+
+.sixMsub{
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(20, 20, 20, 1);
+  width: 100px;
+}
+
+.oneBsub{
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(20, 20, 20, 1);
+  width: 130px;
+}
