@@ -3,4 +3,5 @@ body{
   padding-top: 20px;
   background: rgba(255, 255, 255, 1);
   height: 6000px;
+  overflow: hidden;
 }
